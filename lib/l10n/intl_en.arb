@@ -1,0 +1,5 @@
+{
+    "no_internet_connection": "No internet connection, please check you network and try again",
+    "internal_server_error": "Internal Server Error",
+    "loading": "Loading"
+}
